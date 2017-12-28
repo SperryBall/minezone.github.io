@@ -77,7 +77,8 @@ h2 {
 
 .owner,
 .manager,
-.admin {
+.admin,
+.dev {
 	padding: 12px;
 }
 
